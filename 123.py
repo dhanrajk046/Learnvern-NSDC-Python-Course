@@ -1,0 +1,6 @@
+t1 = ("Python", 1, 2, 3, "Java", "A", "B")
+print("Current Tuple:", t1)
+# print("Alternative values of the tuple are:")
+# print(t1[::2])
+# print("Index between 1 to 5:", t1[1:5])
+print("Last value:", t1[-1])

@@ -1,0 +1,5 @@
+a=(float(input("Enter the value of A: ")))
+print("A: ",a)
+b=(float(input("Enter the value of B: ")))
+print("B: ",b)
+print(a==b)

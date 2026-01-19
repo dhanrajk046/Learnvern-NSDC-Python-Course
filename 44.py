@@ -1,0 +1,6 @@
+x=("a")
+y=("b")
+z=("c")
+print("x: ",x)
+print("y: ",y)
+print("z: ",z)
